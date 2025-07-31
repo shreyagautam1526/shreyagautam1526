@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyagautam1526
 - 👀 I’m interested in coding and how to deal with real world problems in a simple way.
-- 🌱 I’m currently learning python, HTML, CSS and javascript.
+- 🌱 I’m currently learning python data science, HTML, CSS and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - shreyagautam1526@gmail.com
