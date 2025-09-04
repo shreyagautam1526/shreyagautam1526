@@ -1,14 +1,14 @@
 # 👩‍💻 Shreya Gautam  
 
 ### 🌟 About Me  
-Hi! I’m *Shreya Gautam, a B.Tech Computer Science student passionate about **Data Science, Machine Learning, and DSA*. I enjoy transforming raw data into meaningful insights and love solving problems through code and logic.  
+Hi! I’m **Shreya Gautam, a B.Tech Computer Science student passionate about** **Data Science, Machine Learning, and DSA**. I enjoy transforming raw data into meaningful insights and love solving problems through code and logic.  
 
 ---
 
 ## 🚀 What I’m Currently Doing  
-- 📊 Learning *Data Science* (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🔢 Practicing *DSA* to strengthen problem-solving skills  
-- 🌱 Exploring *Machine Learning basics*  
+- 📊 Learning **Data Science** (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🔢 Practicing **DSA** to strengthen problem-solving skills  
+- 🌱 Exploring **Machine Learning basics**  
 - 💻 Building beginner-friendly projects  
 
 ---
